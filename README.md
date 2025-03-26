@@ -6,3 +6,5 @@ Projeto Aula API com viaCEP - Senac Jabaquara
 https://viacep.com.br/ 
 
 # Nova informação via desktop (eric)
+
+#exemplo
